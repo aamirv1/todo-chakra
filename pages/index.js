@@ -5,7 +5,7 @@ const test2 = () => {
   return (
     <Box height={"full"} bg="#F0F2F5" pb="100px">
       <Box display={"flex"} mb="60px" justifyContent="center" pt="200px">
-        <Box width="640px" height="612px" bg="#E4E2EF"></Box>
+        <Box width="640px" height="612px" bg="#E4E2EF" />
         <Box width="640px" pl="60px" height="612px" bg="#FFFFFF">
           <Text display={"inline-block"} size="16px" pt="50px" pb="24px">
             In{" "}
